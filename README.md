@@ -1,3 +1,5 @@
+> **2026-09-22：源码维护已迁移。** NewsFlow 核心与 AstrBot 适配层已合并到 [Miraco33/astrbot_plugin_newsflow](https://github.com/Miraco33/astrbot_plugin_newsflow)。本仓库保留迁移前源码和回退历史；后续功能与修复只在完整插件仓库维护。见 [迁移说明](docs/plugin-migration.md)。以下旧启动与部署说明仅作历史参考。
+
 # 每日新闻流系统
 
 多来源 AI 筛选的每日新闻快报系统。从全球多个权威媒体采集新闻，经 AI 智能筛选去重后，按话题分类并翻译为中文，生成简洁的每日简报。
